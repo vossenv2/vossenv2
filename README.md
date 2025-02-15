@@ -27,13 +27,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ✅ Tools & Technologies I Know:
-!Comarch
-!LinkBaser
 ---
-
-## 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vossenv2&theme=github-dark)
+## ✅ Tools & Technologies I Know:
+![Comarch](https://img.shields.io/badge/Comarch-%23F7B500?style=flat-square&logo=Comarch&logoColor=white)
+![LinkBaser](https://img.shields.io/badge/LinkBaser-%23007C8C?style=flat-square&logo=LinkBaser&logoColor=white)
 
 ---
 
