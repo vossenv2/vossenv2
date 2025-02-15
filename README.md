@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm vossen! 👋
 
-<!--
-**vossenv2/vossenv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me
+- 💻 Developer from Poland 🇵🇱
+- 🔍 Passionate about cybersecurity, coding, and open-source projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossen&show_icons=true&theme=dark)
+
+### 🔥 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vossen&layout=compact&theme=dark)
+
+---
+
+### ✅ Languages I Know:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### 📚 Languages I'm learning:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### ✅ Tools & Technologies I Know:
+![Comarch]
+![LinkBaser]
+---
+
+## 📈 Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vossen&theme=github-dark)
+
+---
+
+## 🎓 My Certifications:
+📜 You can find my certifications on my website:  
+🔗 **[Visit my certification page]()**  
+
+
+---
+
+## 👀 Visitors:
+![Visitor Count](https://komarev.com/ghpvc/?username=vossen&color=green)
+
+---
+
+## 📫 Contact Me:
+- Discord: vossenv2
+- Email: vossenv2@mailfence.com
+
+---
+
+🚀 **Thanks for visiting my profile!** 💙
