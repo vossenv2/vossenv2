@@ -28,8 +28,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### ✅ Tools & Technologies I Know:
-![Comarch]
-![LinkBaser]
+!Comarch
+!LinkBaser
 ---
 
 ## 📈 Activity Graph:
