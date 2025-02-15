@@ -36,6 +36,10 @@
 📜 You can find my certifications on my website:  
 🔗 **[Visit my certification page]()**  
 
+---
+
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
 
 ---
 
@@ -49,9 +53,5 @@
 - Email: vossenv2@mailfence.com
 ---
 
-## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
-
----
 
 🚀 **Thanks for visiting my profile!** 💙
