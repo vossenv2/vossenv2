@@ -6,8 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
 
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vossenv2&layout=compact&theme=dark)
@@ -49,6 +47,10 @@
 ## 📫 Contact Me:
 - Discord: vossenv2
 - Email: vossenv2@mailfence.com
+---
+
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
 
 ---
 
