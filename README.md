@@ -38,9 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
-
 ---
 
 ## 👀 Visitors:
