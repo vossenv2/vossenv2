@@ -34,7 +34,7 @@
 
 ## 🎓 My Certifications:
 📜 You can find my certifications on my website:  
-🔗 **[Visit my certification page]()**  
+🔗 **[Visit my certification page](https://www.vossenv2.ct.ws/)**  
 
 ---
 
