@@ -7,10 +7,10 @@
 ---
 
 ## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossen&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vossenv2&show_icons=true&theme=dark)
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vossen&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vossenv2&layout=compact&theme=dark)
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ## 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vossen&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vossenv2&theme=github-dark)
 
 ---
 
