@@ -19,7 +19,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### 📚 Languages I'm learning:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -29,6 +28,14 @@
 ## ✅ Tools & Technologies I Know:
 ![Comarch](https://img.shields.io/badge/Comarch-%23F7B500?style=flat-square&logo=Comarch&logoColor=white)
 ![LinkBaser](https://img.shields.io/badge/LinkBaser-%23007C8C?style=flat-square&logo=LinkBaser&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Tor](https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
