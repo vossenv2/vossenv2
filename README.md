@@ -1,4 +1,4 @@
-# Hi, I'm vossen! 👋
+# Hi, I'm vossenv2! 👋
 
 ## 🌍 About Me
 - 💻 Developer from Poland 🇵🇱
