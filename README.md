@@ -36,6 +36,9 @@
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![SellAssist](https://img.shields.io/badge/-SellAssist-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![B2B Solutions](https://img.shields.io/badge/-B2B%20IT%20Solutions-28A745?style=flat-square&logo=business&logoColor=white)
+
 
 ---
 
